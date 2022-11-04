@@ -1,5 +1,5 @@
 <p>Este fue un juego desarrollado en equipo durante Preparatorio para la asignatura de Matemática II. Mi contribución al proyecto consistió en el diseño de los personajes, desde la apariencia hasta los movimientos en el juego y el disparo del dragón.</p>
-<p>La consigna consistía en desarrollar un juego en GeoGebra utilizando las propiedades de los lugares geométricos, junto con otras figuras geométricas. Dado que GeoGebra no es un software diseñado para soportar tanto gráfico, los frames por segundo son bajos.</p>
+<p>La consigna consistía en desarrollar un juego en GeoGebra utilizando las propiedades de los lugares geométricos, junto con otras figuras geométricas. Dado que GeoGebra no es un software diseñado para soportar tanto gráfico, los frames por segundo son bajos. Para ver el código completo, abrir el archivo en GeoGebra.</p>
 <p>En esta carpeta se encuentra el archivo del juego para ser abierto en GeoGebra (funciona con la versión online)</p>
 <p>Debajo hay un video mostrando el funcionamiento del juego, y algunas imágenes del código.</p>
 
