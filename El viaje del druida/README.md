@@ -7,7 +7,8 @@
 ```diff
 + Funcionamiento del juego:
 ```
-<p>El jugador controla un druida que está en búsqueda de las hojas de su libro mágico que se dispersaron por el bosque. El druida es capaz de transformarse en varios animales, los cuales tienen interacciones particulares con objetos del mapa. En el video se puede ver uno de los niveles, junto con las animaciones de muerte del personaje y gameplay general.</p>
+<p>El jugador controla un druida que está en búsqueda de las hojas de su libro mágico que se dispersaron por el bosque. El druida es capaz de transformarse en varios animales, los cuales tienen interacciones particulares con objetos del mapa.</p> 
+<p>En el video se puede ver uno de los niveles, junto con las animaciones de muerte del personaje y gameplay general.</p>
 
 https://user-images.githubusercontent.com/88661539/199905962-80ca6ff6-58c1-40f2-849b-728d46da5c8c.mp4
 
