@@ -7,6 +7,8 @@
 ```diff
 ! Funcionamiento del juego:
 ```
+<p>El jugador encarna un gladiador en un mundo medieval fantástico, donde la magia y distintas razas son habituales. Este gladiador llega a la ciudad de Waterdeep, el centro mundial de gladiadores, para convertirse en el campeón definitivo.</p>
+<p>En el video se aprecian algunas de las localidades accesibles, parte del sistema de compras, y un combate.</p>
 
 https://user-images.githubusercontent.com/88661539/199895918-8bebd356-6888-4e56-8fab-cb5193cc84f7.mp4
 
