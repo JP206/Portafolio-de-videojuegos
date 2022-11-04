@@ -8,6 +8,9 @@ Videojuegos en Unity de edX.</p>
 ```diff
 @@ Funcionamiento del juego: @@
 ```
+<p>El jugador deberá destruir todas las rocas lanzadas exceptuando las rojas, de lo contrario perderá.</p>
+<p>En el video se puede apreciar la pantalla principal, los sistemas de partículas al destruir rocas, detener el movimiento con la barra espaciadora y ver cómo luce una derrota.</p>
+
 https://user-images.githubusercontent.com/88661539/199898694-a9be5955-b3d1-4668-923c-9f6485407eb1.mp4
 
 ```diff
