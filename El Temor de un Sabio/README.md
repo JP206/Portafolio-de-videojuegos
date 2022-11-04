@@ -6,6 +6,9 @@
 ```diff
 - Funcionamiento del juego:
 ```
+<p>El jugador se pone en la piel de un matemático que ha sido secuestrado y debe resolver acertijos para lograr escapar (basado en la película "La habitación de Fermat").</p>
+<p>En el video se puede observar el inicio del juego, y algunos de los acertijos esperables en el transurso del mismo.</p>
+
 https://user-images.githubusercontent.com/88661539/199749228-9725b928-2b58-477b-91b9-f0da049da5c2.mp4
 
 ```diff
