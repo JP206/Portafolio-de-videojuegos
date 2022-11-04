@@ -24,6 +24,6 @@ https://user-images.githubusercontent.com/88661539/199895918-8bebd356-6888-4e56-
 ![dañoMagico](https://user-images.githubusercontent.com/88661539/199896648-0f47cb5e-edeb-4283-a588-f7dae6ac7689.png)
 
 ```diff
-! Código de la sección de armas cortantes de la tienda:
+! Fragmento de código de la sección de armas cortantes de la tienda:
 ```
 ![armasCortantes](https://user-images.githubusercontent.com/88661539/199896749-951c3d9a-ba34-4b8a-95a7-208348b6ad8f.png)
