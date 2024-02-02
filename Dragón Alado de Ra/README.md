@@ -1,1 +1,3 @@
-<p>En esta carpeta se encuentra el archivo del juego para ser abierto en GeoGebra (funciona con la versión online)</p>
+Abrir el archivo en GeoGebra (también funciona con la versión online).
+
+Open the file in GeoGebra (works with web version too).
