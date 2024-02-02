@@ -1,1 +1,3 @@
-<p>En esta carpeta se encuentra el archivo del juego (abrir el .html) y la tabla de balances (archivo Excel) creada para el juego. En caso de querer ver el código completo, es necesario abrir el archivo html en Twine.</p>
+Abrir el archivo .html. El archivo Excel es la tabla de balances utilizada.
+
+Open .html file. The Excel file is the balancing table used.
